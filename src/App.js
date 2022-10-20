@@ -12,10 +12,10 @@ function App() {
         alt = "logo" / >
         <
         p >
-        Edit < code > src / App.js < /code> and save to reload. <
-        /p> <
-        h1 > hello world < /h1> <
-        /header> <
+        Edit < code > src / App.js < /code> and save to reload. < /
+        p > <
+        h1 > hello Ajay... < /h1> < /
+        header > <
         /div>
     );
 }
